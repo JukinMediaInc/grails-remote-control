@@ -29,7 +29,7 @@ grails.project.dependency.resolution = {
 	}
 	plugins {
 		compile (
-			":tomcat:7.0.70",
+			":tomcat:8.0.33",
             ":hibernate4:4.3.10"
 		) {
 			export = false
